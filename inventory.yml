@@ -1,3 +1,5 @@
 devices:
   - name: core_switch_0`
     type: cisco_ios
+  - name: access_switch_1
+    type: cisco_ios
